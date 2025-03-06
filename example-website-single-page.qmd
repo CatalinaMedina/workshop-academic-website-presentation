@@ -1,0 +1,8 @@
+---
+title: "Single Page Website Example"
+format: html
+---
+
+Name...
+
+Other info...
