@@ -1,0 +1,85 @@
+---
+title: "Professional Websites"
+format: revealjs
+---
+
+# Why should we have an professional website?
+
+## Examples
+
+[Federica's website](https://federicazoe.github.io/)
+
+[Catalina's website](https://catalinamedina.github.io/)
+
+[Single page example example](https://www.hbendekgey.me/)
+
+[Another single page example](https://giosueio.github.io/)
+
+[Education focused](https://srmatth.github.io/teacher/)
+
+[Industry example](https://damon.phd/)
+
+[Non Github example](https://isaachgoldstein.netlify.app/)
+
+[Aother non GitHub Example](https://sclifton0.wixsite.com/saraclifton)
+
+
+## Content
+
+- Interests
+- Experience
+- Projects
+- Goals
+- Links to other websites (e.g. Google Scholar, linkedin, email, ...)
+- ... 
+
+## Considerations
+
+Pros:
+
+- Visibility (for people wanting to work with you or considering hiring you)
+- Can provide a better picture of yourself and your work than just a resume
+- Extremely simple to make a basic and even moderately complex website
+
+Cons:
+
+- Need to update
+- Can be annoying to maintain if your website is complicated
+
+# Hosting a website on GitHub
+
+We recommend GitHub because 
+
+- It is free
+- Don't have to worry about losing access (e.g. using institutional url)
+- Others can see how you created the website because the repo will be public
+- Employers may look at your GitHub
+
+## Single page created with Quarto in RStudio
+
+**Example simple demo**
+
+Steps:
+
+1. Make GitHub repo
+2. Clone to computer
+3. Make index.qmd
+4. Render
+5. Commit index.html to Git and push to GitHub
+6. Make GitHub repo public (settings: General)
+7. Build and deploy (settings: Pages)
+8. Website will be available at: https://[GitHub username].github.io/[repo name]
+
+e.g.: https://catalinamedina.github.io/workshop-academic-website-presentation/
+
+## Multiple pages managed by yaml
+
+[Catalina's website](https://catalinamedina.github.io/)
+
+**Demo making quarto website in RStudio and then hosting the webpages on GitHub**
+
+**Example repo**
+
+# Designing your website
+
+[Quarto Website Templates](https://quarto.org/docs/gallery/#websites)
