@@ -15,7 +15,7 @@ format:
 
 [Catalina's website](https://catalinamedina.github.io/)
 
-[Single page example example](https://www.hbendekgey.me/)
+[Single page example](https://www.hbendekgey.me/)
 
 [Another single page example](https://giosueio.github.io/)
 
