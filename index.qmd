@@ -2,7 +2,9 @@
 title: Professional Websites
 subtitle: Student Seminar Series Winter 2025
 author: Federica Zoe Ricci and Catalina Medina
-format: revealjs
+format: 
+  revealjs:
+    scrollable: true
 ---
 
 # Why should we have an professional website?
@@ -23,8 +25,7 @@ format: revealjs
 
 [Non Github example](https://isaachgoldstein.netlify.app/)
 
-[Aother non GitHub Example](https://sclifton0.wixsite.com/saraclifton)
-
+[Another non GitHub Example](https://sclifton0.wixsite.com/saraclifton)
 
 ## Content
 
@@ -96,8 +97,12 @@ Now your turn!
 
 # Designing your website
 
-[Quarto Website Templates](https://quarto.org/docs/gallery/#websites)
+[Quarto "About" Templates](https://quarto.org/docs/websites/website-about.html): options for how your homepage looks like
 
-[Quarto "About" Templates](https://quarto.org/docs/websites/website-about.html)
+[Quarto Themes](https://quarto.org/docs/output-formats/html-themes.html): styles for the whole website
 
 [Quarto Website options](https://quarto.org/docs/reference/projects/websites.html)
+
+[Quarto Website Templates](https://quarto.org/docs/gallery/#websites)
+
+- Looking at other people's websites
