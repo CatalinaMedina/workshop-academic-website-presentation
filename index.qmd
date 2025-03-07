@@ -1,5 +1,7 @@
 ---
-title: "Professional Websites"
+title: Professional Websites
+subtitle: Student Seminar Series Winter 2025
+author: Federica Zoe Ricci and Catalina Medina
 format: revealjs
 ---
 
@@ -25,6 +27,8 @@ format: revealjs
 
 
 ## Content
+
+. . .
 
 - Interests
 - Experience
@@ -70,16 +74,30 @@ Steps:
 7. Build and deploy (settings: Pages)
 8. Website will be available at: https://[GitHub username].github.io/[repo name]
 
+. . .
+
 e.g.: https://catalinamedina.github.io/workshop-academic-website-presentation/
 
 ## Multiple pages managed by yaml
 
 [Catalina's website](https://catalinamedina.github.io/)
 
+. . .
+
 **Demo making quarto website in RStudio and then hosting the webpages on GitHub**
 
-**Example repo**
+. . .
+
+[Quarto Website Documentation](https://quarto.org/docs/websites/)
+
+. . . 
+
+Now your turn!
 
 # Designing your website
 
 [Quarto Website Templates](https://quarto.org/docs/gallery/#websites)
+
+[Quarto "About" Templates](https://quarto.org/docs/websites/website-about.html)
+
+[Quarto Website options](https://quarto.org/docs/reference/projects/websites.html)
